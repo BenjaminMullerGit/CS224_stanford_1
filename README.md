@@ -1,4 +1,4 @@
-##### CS224_stanford_1
+### CS224_stanford_1
 
 You'll find my own version of the assignement 1 of the CS224 Stanford NLP course. 
 
